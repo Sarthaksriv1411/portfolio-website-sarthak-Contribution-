@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ade45c4b-b2cb-46cb-b8a6-31cad3bd0c5a" alt="Portfolio Screenshot">
-</p>
-
 ---
 
 ## 🎯 Overview
@@ -288,7 +284,8 @@ I spent significant time designing and building this portfolio, and while I'm ha
 
 **Sajda Sabnam**
 
-- LinkedIn: [linkedin.com/in/sajda-sabnam-486614265](https://www.linkedin.com/in/sajda-sabnam-486614265/)
+gi- LinkedIn: [linkedin.com/in/sajda-sabnam-486614265](https://www.linkedin.com/in/sajda-sabnam-486614265/)
+
 - GitHub: [@sajda25](https://github.com/sajda25)
 
 ---
